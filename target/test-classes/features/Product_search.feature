@@ -1,6 +1,6 @@
  
  
-@smoke
+@
 Feature: User product search funchionality
 Scenario: Product search funchionality
 

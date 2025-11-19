@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="12.578" tests="1" skipped="0" failures="0" errors="0">
-<testcase classname="User product search funchionality" name="Product search funchionality" time="12.385">
+<testsuite name="Cucumber" time="6.213" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="User contact us functionlality" name="User contactUs form" time="5.994">
 <system-out><![CDATA[
-Given User in homepage......................................................passed
-When User clicks on Products button and view all product details............passed
-And User enters product name................................................passed
-And user clicks search button...............................................passed
-Then user able to view searched products....................................passed
+Given User on homepage......................................................passed
+When User clicks on contact us button.......................................passed
+And User enters below details...............................................passed
+And User clicks on submit button............................................passed
+Then User able to view Success message......................................passed
 ]]></system-out>
 </testcase>
 </testsuite>
